@@ -1,15 +1,9 @@
 <div align="center">
 
-# Hey, I'm Devon Lopez (Delozz)
-
-**Aspiring Quantitative & SWE Developer**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devon-lopez1/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail)](mailto:devoninternships@gmail.com)
 
----
-
-### About Me
+<br />
 
 I am an undergraduate student at Texas A&M University studying Computer Science with a minor in Mathematics. My core languages are Python and C++, and I am deeply interested in engineering backend systems and developing algorithmic trading bots. I love problem-solving, a passion that drives my daily routine of studying computer science and calculus literature. Outside of my coursework, I serve as a Quantitative Developer for the Aggie Investment Club and enjoy building predictive systems, such as my LSTM-based Stock-Bot.
 
@@ -32,8 +26,8 @@ I am an undergraduate student at Texas A&M University studying Computer Science 
 ### GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Delozz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delozz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api?username=Delozz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Delozz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
@@ -64,4 +58,3 @@ I am an undergraduate student at Texas A&M University studying Computer Science 
 </table>
 
 </div>
-
