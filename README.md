@@ -48,14 +48,14 @@ I am an undergraduate student at Texas A&M University studying Computer Science 
   <tr>
     <td width="50%" valign="top" style="border: none;">
       <a href="https://github.com/Delozz/kalshi-wc-bot">
-        <img src="URL_TO_YOUR_KALSHI_IMAGE.png" alt="Kalshi Bot" width="100%" style="border-radius: 8px;">
+        <img src="https://github.com/Delozz/Delozz/blob/main/kalshi-bot.png?raw=true" alt="Kalshi Bot" width="100%" style="border-radius: 8px;">
       </a>
       <br /><br />
       <strong>Kalshi-WC-Bot</strong> is an algorithmic trading system leveraging quantitative models to predict market drift.
     </td>
     <td width="50%" valign="top" style="border: none;">
       <a href="https://github.com/Delozz/internship-tracker">
-        <img src="URL_TO_YOUR_INTERNSHIP_IMAGE.png" alt="Internship Tracker" width="100%" style="border-radius: 8px;">
+        <img src="https://github.com/Delozz/Delozz/blob/main/internship-tracker.png?raw=true" alt="Internship Tracker" width="100%" style="border-radius: 8px;">
       </a>
       <br /><br />
       <strong>Internship Tracker</strong> is a backend management system for organizing and tracking engineering applications.
