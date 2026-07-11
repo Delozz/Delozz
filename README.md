@@ -23,7 +23,8 @@ I am an undergraduate student at Texas A&M University studying Computer Science 
   </a>
 </p>
 <p align="center">
-  <em>Also experienced with Claude Code & Railway</em>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 </p>
 
 ---
@@ -43,19 +44,29 @@ I am an undergraduate student at Texas A&M University studying Computer Science 
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Delozz/kalshi-wc-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delozz&repo=kalshi-wc-bot&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%">
-  </a>
-  <a href="https://github.com/Delozz/internship-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delozz&repo=internship-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%">
-  </a>
-</p>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/Delozz/kalshi-wc-bot">
+        <img src="URL_TO_YOUR_KALSHI_IMAGE.png" alt="Kalshi Bot" width="100%" style="border-radius: 8px;">
+      </a>
+      <br /><br />
+      <strong>Kalshi-WC-Bot</strong> is an algorithmic trading system leveraging quantitative models to predict market drift.
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/Delozz/internship-tracker">
+        <img src="URL_TO_YOUR_INTERNSHIP_IMAGE.png" alt="Internship Tracker" width="100%" style="border-radius: 8px;">
+      </a>
+      <br /><br />
+      <strong>Internship Tracker</strong> is a backend management system for organizing and tracking engineering applications.
+    </td>
+  </tr>
+</table>
 
 </div>
 """
 
-with open("README.md", "w") as file:
+with open("README_3.md", "w") as file:
     file.write(markdown_content)
 
-print("README.md generated successfully.")
+print("README_3.md generated successfully.")
