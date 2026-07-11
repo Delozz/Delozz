@@ -1,4 +1,4 @@
-markdown_content = """<div align="center">
+<div align="center">
 
 # Hey, I'm Devon Lopez (Delozz)
 
@@ -64,9 +64,4 @@ I am an undergraduate student at Texas A&M University studying Computer Science 
 </table>
 
 </div>
-"""
 
-with open("README_3.md", "w") as file:
-    file.write(markdown_content)
-
-print("README_3.md generated successfully.")
