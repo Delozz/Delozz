@@ -5,8 +5,7 @@
 
 <br />
 
-I am an undergraduate student at Texas A&M University studying Computer Science with a minor in Mathematics. My core languages are Python and C++, and I am deeply interested in engineering backend systems and developing algorithmic trading bots. I love problem-solving, a passion that drives my daily routine of studying computer science and calculus literature. Outside of my coursework, I serve as a Quantitative Developer for the Aggie Investment Club and enjoy building predictive systems, such as my LSTM-based Stock-Bot.
-
+I am an undergraduate student at Texas A&M University studying Computer Science with a minor in Mathematics. My core languages are Python and C++, and I am deeply interested in engineering backend systems and developing algorithmic trading bots. I love problem-solving, a passion that drives my daily routine of studying computer science and calculus literature. 
 ---
 
 ### Tech Stack & Tools
